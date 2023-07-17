@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME
+title: RivertalesNL
 headless: true
 resources:
     - name: about
